@@ -86,8 +86,12 @@ https://github.com/vukasinb7/Smart-Lock/assets/51921035/14e8de73-c724-4877-ab06-
 ### Face Recognition Dark Mode
 https://github.com/vukasinb7/Smart-Lock/assets/51921035/0f65f87c-7333-4b1f-ba6f-4f22c13cde54
 
-## Alarm
+### Alarm
 https://github.com/vukasinb7/Smart-Lock/assets/51921035/a5415788-063d-4e4b-bac8-c0de92248742
 
 
 
+## Authors
+
+- [Jovan Jokić](https://github.com/jokicjovan)
+- [Vukašin Bogdanović](https://github.com/vukasinb7)
